@@ -1,0 +1,24 @@
+# Data (large, regenerable by running notebooks — see README)
+data/raw/
+data/processed/
+
+# Trained models (large, regenerable)
+models/
+
+# Generated results/logs (regenerable)
+results/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.venv/
